@@ -1,0 +1,13 @@
+.my_stilo{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px, 50px;
+    margin: 10px;
+}
+
+.my_stilo2{
+    border: 1px solid, skyblue;
+    border-radius: 5px;
+    padding: 10px, 50px;
+    margin: 10px;
+}

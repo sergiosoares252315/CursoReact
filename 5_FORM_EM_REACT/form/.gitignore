@@ -1,13 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-*/node_modules
-/1_INTRO/node_modules
-/2_FUNDAMENTOS/fundamentos/node_modules
-/3_AVANCANDO_EM_REACT/avancandoemreact/node_modules
-/4_CSS_REACT/css/node_modules
-/4_CSS_REACT/challengecss/node_modules
-/5_FORM_EM_REACT/form/node_modules
+/node_modules
 /.pnp
 .pnp.js
 

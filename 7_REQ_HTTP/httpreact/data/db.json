@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "23ac",
+      "name": "capa de chuva",
+      "price": "50.50"
+    },
+    {
+      "id": "1d40",
+      "name": "teclado",
+      "price": "110"
+    },
+    {
+      "id": "69f5",
+      "name": "mouse",
+      "price": "40.32"
+    },
+    {
+      "id": "c06e",
+      "name": "cadeira",
+      "price": "200"
+    },
+    {
+      "id": "a7b1",
+      "name": "colher",
+      "price": "2.67"
+    },
+    {
+      "id": "79a3",
+      "name": "suporte monitor",
+      "price": "120"
+    },
+    {
+      "id": "a9bd",
+      "name": "cabo hdmi",
+      "price": "15"
+    },
+    {
+      "id": "c2d5",
+      "name": "suporte microfone",
+      "price": "60"
+    },
+    {
+      "id": "b141",
+      "name": "Fone",
+      "price": "15"
+    }
+  ]
+}

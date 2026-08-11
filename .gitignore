@@ -12,6 +12,7 @@
 /7_REQ_HTTP/httpreact/node_modules
 /8_REACT_ROUTER/reactrouter/node_modules
 /9_CONTEXT_API/context/node_modules
+/10_MINIBLOG/miniblogrev2/node_modules
 /.pnp
 .pnp.js
 

@@ -14,6 +14,8 @@
 /9_CONTEXT_API/context/node_modules
 /10_MINIBLOG/miniblogrev2/node_modules
 /11_HOOKS/reacthooks/node_modules
+/12_REACTGRAM/backend/node_modules
+/12_REACTGRAM/frontend/node_modules
 /.pnp
 .pnp.js
 

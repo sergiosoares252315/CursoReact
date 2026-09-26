@@ -10,10 +10,10 @@ const app = express();
 
 // config JSON and form data response
 app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: true }));
 
-// Solve CORS
-app.use(cors({ credentials: true, origin: "http://localhost:3000/" }));
+// Salve CORS
+app.use(cors({ credentials: true, origin: ["http://localhost:3000", "http://localhost:3000/"] }));
 
 // Upload directory
 app.use("/uploads", express.static(path.join(__dirname, "/uploads")));
